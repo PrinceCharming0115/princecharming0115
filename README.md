@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Blockchain Engineer with 7+ years of expertise in designing, developing, deploying, and maintaining complex smart contracts. Have hands-on experience in developing **Defi/Dex**, **Cross-Chain NFT marketplace**, **DID/SSI** **Wallet** and other dApps using **Solidity**, **Rust**, **React.js**, **Node.js**, **Web3.js**, **Ethers.js**, **Hardhat**, **Truffle** and other tools. Experience in building a new **Layer 1 chain** called MongGulVenture and **Cosmos** Smart Contracts powering Cosmos SDK, **CosmWasm** and **Golang**. Ready to apply my passion for talented startup companies.
+A seasoned professional with over **7+** years of commercial experience in the **blockchain** and **Web3** space, this individual brings a wealth of expertise in developing sophisticated smart contracts using **Solidity** and **Rust**. Their extensive background includes working on **cross-chain** **NFT** projects, **DeFi** and **DEX** platforms, implementing **Layer** **2 (L2) rollup** solutions, and pioneering the development of an **DID/SSI wallet** for blockchain verification systems utilizing **zero-knowledge proofs**. Additionally, they have demonstrated proficiency in **account** **abstraction** wallets, showcasing their ability to innovate within the rapidly evolving blockchain landscape.
 
 <!--
 **PrinceCharming0115/princecharming0115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
